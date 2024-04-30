@@ -12,6 +12,8 @@ class MovieDetail extends StatelessWidget {
       appBar: AppBar(
         title: Text(movie.title),
         toolbarHeight: 100,
+        backgroundColor: Colors.black,
+        titleTextStyle: TextStyle(color: Colors.white, fontSize: 24, fontWeight: FontWeight.w400),
       ),
       body: SingleChildScrollView(
         child: Column(
