@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 ## Features
 - **Browse Movies**: Users can scroll through a list of movies.
 - **Search Movies**: Users can search for movies by entering keywords into the search bar.
-- *View Movie Details*: Users can tap on a movie to view more information about it, such as its title, genre, runtime, actors etc.
+- **View Movie Details**: Users can tap on a movie to view more information about it, such as its title, genre, runtime, actors etc.
 
 ## Technologies
 - **Flutter**: A UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
